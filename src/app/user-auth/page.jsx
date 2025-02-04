@@ -64,7 +64,7 @@ const page = () => {
       </div>
       <div className="flex flex-col justify-center w-full p-8 lg:w-1/2">
         <div className="max-w-md mx-auto">
-          <h1 className="mb-4 text-4xl font-bold">Welcome to Google Meet</h1>
+          <h1 className="mb-4 text-4xl font-bold">Welcome to Cybershoora Meet</h1>
           <p className="mb-8 text-gray-600 dark:text-gray-100">
             Connect with your team anytime, anywhere. Join or start meetings with crystal-clear HD video and audio.
           </p>
